@@ -12,7 +12,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage ](#usage-)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -57,7 +56,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:Nelitaa/hello-rails-react.git
+  git clone https://github.com/emmanuellmhango/hello-react-front-end.git
 ```
 
 ### Install
@@ -65,7 +64,6 @@ Clone this repository to your desired folder:
 Install the project dependencies with:
 
 ```
-  - bundle install
   - npm install
 ```
 
@@ -74,7 +72,7 @@ Install the project dependencies with:
 To run the project, execute the following command:
 
 ```
-  rails s
+  npm start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
